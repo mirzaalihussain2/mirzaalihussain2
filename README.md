@@ -3,6 +3,7 @@
 - I spent 3 years as a Product Manager for a London-based tech startup.
 
 Experience using:
+<br>
 <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
