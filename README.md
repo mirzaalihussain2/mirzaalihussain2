@@ -1,20 +1,24 @@
-- 👋 Hi, I’m @mirzaalihussain2 but I go by Ali
-- I love Product, especially the 0-to-1 phase, and spent 3 years as a Product Manager for a London-based tech startup.
-- I'm now getting closer to the building part of products.
+- Hi, I'm Ali.
+- I'm a full-stack engineer with 4 years of experience building stuff in Javascript/ Typescript and Python.
+- I spent 3 years as a Product Manager for a London-based tech startup.
 
-TECHY STUFF
-- 👀 I’m interested in universal APIs (think: TrueLayer, Duffel, Impala, Terra, Curacel), blockchain & crypto, new graph tech, solving customer problems.
-- I've got some experience using Python for data analysis (including using numpy, pandas and matplotlib libraries) in a commercial setting.
-- 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on anything where (1) there's a real customer problem AND (2) my skills will be helpful (PM, data analysis or front-end skills).
-- 📫 Hit me up via GitHub.
-
-NON-TECHY STUFF
-- Currently travelling around South East Asia, with a mix of learning & travelling.
-- I like cycling, running & all things outdoorsy.
-- I'm a big reader: I like classic American fiction (F. Scott Fitzgerald, Patricia Highsmith, John Updike) and business leadership books.
-- Currently reading 'Things Fall Apart' by Chinua Achebe (again!) and 'The Hard Thing about Hard Things' by Ben Horowitz.
-
+Experience using:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          
 <!---
 mirzaalihussain2/mirzaalihussain2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
