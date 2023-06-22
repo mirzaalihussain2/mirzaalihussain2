@@ -1,6 +1,9 @@
 - Hi, I'm Ali.
 - I'm a full-stack engineer with 4 years of experience building stuff in Javascript/ Typescript and Python.
-- I spent 3 years as a Product Manager for a London-based tech startup.
+- I love solving real problems - I spent 3 years as a Product Manager for a London-based tech startup.
+- I'm interested in universal APIs (think: TrueLayer, Duffel, Impala, Terra, Curacel), blockchain & crypto, developer tools, and new database tech.
+
+
 
 Experience using:
 <br>
